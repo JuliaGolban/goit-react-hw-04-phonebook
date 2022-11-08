@@ -14,7 +14,7 @@
 
 # Admission criteria
 
-- The `goit-react-hw-03-feedback`.
+- The `goit-react-hw-04-feedback`.
 - When submitting homework, there are two links: to the source files and the
   working pages of each assignment on `GitHub Pages`.
 - The component state stores the minimum required set of data, The rest is
@@ -23,12 +23,12 @@
 - For each component has a separate folder with the React-component file and
   styles file.
 - For the components are described `propTypes`.
-- Everything that a component expects in the form of props is passed to it when
-  it is called.
-- JS-code is clean and clear, `Prettier` is used.
-- Styling is done by `CSS modules` or `Styled Components`.
+- Component names are clear, descriptive.
 
-## 1 - Contact Book.
+**_Refactor the "Contact Book" task code from the third module using
+React-hooks._**
+
+## Previous task - Contact Book.
 
 Take your solution to the assignment from the previous homework and add storage
 phonebook contacts to `localStorage`. Use lifecycle methods.
@@ -38,7 +38,7 @@ phonebook contacts to `localStorage`. Use lifecycle methods.
 - When the application is loaded, contacts, if any, are read from local storage
   and are written to the state.
 
-## Previous task
+## First task - Contact Book.
 
 Write an application to store your phonebook contacts.
 
